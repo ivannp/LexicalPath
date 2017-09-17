@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LexicalPath", "LexicalPath\LexicalPath.csproj", "{34835E3C-2AFC-431F-94E9-ACB705996D3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LexicalPathUnitTest", "LexicalPathUnitTest\LexicalPathUnitTest.csproj", "{0853E715-8C8A-450A-B818-D53C59B19288}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34835E3C-2AFC-431F-94E9-ACB705996D3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34835E3C-2AFC-431F-94E9-ACB705996D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34835E3C-2AFC-431F-94E9-ACB705996D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34835E3C-2AFC-431F-94E9-ACB705996D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0853E715-8C8A-450A-B818-D53C59B19288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0853E715-8C8A-450A-B818-D53C59B19288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0853E715-8C8A-450A-B818-D53C59B19288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0853E715-8C8A-450A-B818-D53C59B19288}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6C2E2EB-5BDA-4270-AAE3-40E5C7EEC179}
+	EndGlobalSection
+EndGlobal
