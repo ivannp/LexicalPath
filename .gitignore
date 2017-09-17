@@ -1,0 +1,9 @@
+.vs/
+**/obj/**
+**/bin/**
+**/x64/**
+packages/
+TestResults/
+
+*.db
+*.opendb
